@@ -25,3 +25,6 @@ This project demonstrates how Excel can function as a powerful Business Intellig
 
 Output screenshot:
 https://github.com/karthiikofcl07/Sales-Performance-dashboard/issues/1#issue-3971925697
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-21 173851" src="https://github.com/user-attachments/assets/a48bc2d1-54d0-4ae6-9cb7-0c5ed20138ca" />
+
