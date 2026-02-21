@@ -22,3 +22,6 @@ The dataset was imported into Excel and examined for missing values and inconsis
 💼 Business Value
 
 This project demonstrates how Excel can function as a powerful Business Intelligence tool for performance tracking and reporting. It showcases practical skills in data cleaning, analytical thinking, metric calculation, and professional dashboard design. The final output provides clear insights into sales performance and supports strategic decision-making.
+
+Output screenshot:
+https://github.com/karthiikofcl07/Sales-Performance-dashboard/issues/1#issue-3971925697
